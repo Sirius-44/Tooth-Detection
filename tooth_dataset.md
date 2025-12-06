@@ -404,4 +404,9 @@ CTooth/
 
 **下载地址**：[数据集地址](https://data.mendeley.com/datasets/kx52tk2ddj/3)
 
-**相关论文**：
+**相关论文**：PerioDet: Large-Scale Panoramic Radiograph Benchmark for Clinical-Oriented Apical Periodontitis Detection
+
+***
+
+## 16.
+
