@@ -436,5 +436,3 @@ CTooth/
 **下载地址**：[数据集地址](https://www.kaggle.com/datasets/henriquerezermosqur/dental-x-ray-computacional-vision-segmentation/data)
 
 **相关论文**：
-
-## 17.示例
