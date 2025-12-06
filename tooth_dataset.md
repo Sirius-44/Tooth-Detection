@@ -374,6 +374,19 @@ CTooth/
 
 **相关论文**： 
 
+## 13.caries-Xrays
+**数据信息**：
+- **数据特点**：从全景图像中分割龋齿。
+
+- **数据规模**：6000例
+
+- **格式**：标注格式：VOC；影像大小：2648*1280；影像格式：jpg
+- **应用方向**：龋齿检测
+
+**下载地址**：[数据集地址]（https://github.com/Binz-Chen/AAAI2024_CariesXrays）
+
+**相关论文**：CariesXrays: Enhancing Caries Detection in Hospital-Scale Panoramic Dental X-rays via Feature Pyramid Contrastive Learning
+
 ***
 
 ## 14.Panoramic radiographs with periapical lesions Dataset
