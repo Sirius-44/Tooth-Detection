@@ -391,6 +391,7 @@ CTooth/
 
 ## 14.Panoramic radiographs with periapical lesions Dataset
 **数据信息**：
+
 - **数据特点**：
 
 - **数据规模**：
@@ -415,11 +416,24 @@ CTooth/
 - **格式**：标注格式：；影像大小：；影像格式：
 - **应用方向**：
 
-**下载地址**：[数据集地址](https://data.mendeley.com/datasets/kx52tk2ddj/3)
+**下载地址**：[数据集地址](https://huggingface.co/datasets/XiaochengFang/PerioXrays)
 
 **相关论文**：PerioDet: Large-Scale Panoramic Radiograph Benchmark for Clinical-Oriented Apical Periodontitis Detection
 
 ***
 
-## 16.
+## 16.Dental X Ray Computacional Vision Segmentation
+
+**数据信息**：
+
+- **数据特点**：
+
+- **数据规模**：
+
+- **格式**：标注格式：；影像大小：；影像格式：
+- **应用方向**：
+
+**下载地址**：[数据集地址](https://www.kaggle.com/datasets/henriquerezermosqur/dental-x-ray-computacional-vision-segmentation/data)
+
+**相关论文**：
 
