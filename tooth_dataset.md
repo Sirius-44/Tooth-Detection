@@ -341,8 +341,8 @@ CTooth/
 
 - **数据规模**：500(2000需要联系作者)
 
-- **格式**：标注格式：；影像大小：；影像格式：
-- **应用方向**：
+- **格式**：标注格式:JSON：；影像大小:2440 x 1280：；影像格式:.jpg：
+- **应用方向**：牙齿本身的分割、编号、状态检测,如病变类型，牙列异常
 
 **下载地址**：[数据集地址](https://www.kaggle.com/datasets/zwbzwb12341234/a-dual-labeled-dataset)
 
@@ -436,4 +436,5 @@ CTooth/
 **下载地址**：[数据集地址](https://www.kaggle.com/datasets/henriquerezermosqur/dental-x-ray-computacional-vision-segmentation/data)
 
 **相关论文**：
+
 
