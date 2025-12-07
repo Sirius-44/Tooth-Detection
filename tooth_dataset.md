@@ -339,7 +339,7 @@ CTooth/
 **数据信息**：
 - **数据特点**：从全景片中分割出单个牙齿并对其进行标记。
 
-- **数据规模**：
+- **数据规模**：500(2000需要联系作者)
 
 - **格式**：标注格式：；影像大小：；影像格式：
 - **应用方向**：
@@ -436,3 +436,4 @@ CTooth/
 **下载地址**：[数据集地址](https://www.kaggle.com/datasets/henriquerezermosqur/dental-x-ray-computacional-vision-segmentation/data)
 
 **相关论文**：
+
